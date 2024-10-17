@@ -1,4 +1,4 @@
-# Thesis-Towards-Interpolation-Methods-for-Harnessing-2D-Models-for-3D-Gaussian-Splats
+# Towards-Interpolation-Methods-for-Harnessing-2D-Models-for-3D-Gaussian-Splats
 
 Gaussian splatting, a volume rendering method that enables real time displays of radiance fields and even dynamic 4D scenes, represent the cutting-edge of current 3D rendering techniques. This method has proven highly effective for higher dimensional media. A perennial challenge of performing machine learning on 3D and higher dimensional media is the difficulty of training models, both due to the inherent difficulty of finding optimal solutions in higher dimensions and due to the paucity of good datasets for anything other than 2D digital photos.
 
