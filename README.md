@@ -8,7 +8,7 @@ This project aims to do just that.
 
 Extending the interpolation method for interpolated convolution by [Hart, Whitney, and Morse 2023](https://openaccess.thecvf.com/content/WACV2023/papers/Hart_Interpolated_SelectionConv_for_Spherical_Images_and_Surfaces_WACV_2023_paper.pdf), this project will adapt that method to Gaussian splats and will investigate an effective pipeline for doing so. The anticipated result is a method of applying 2D ML models directly to Gaussian splats.
 
-Preliminary results so far are encouraging. Here, a 3D Gaussian of a kid's play table was styled transfered using a 2D style transfer model and a Picasso work entitled "Self Portrait."
+Preliminary results so far are encouraging. Here, a 3D Gaussian of a kid's play table was styled transfered using a 2D style transfer model and Picasso's "Self Portrait."
 
 ![A still from orginal 3D Gaussian and the style to be transfered to it](StyleTransfer3D.png)
 
