@@ -6,7 +6,7 @@ The sheer volume of excellent 2D datasets, and already-trained models that perfo
 
 This project aims to do just that.
 
-Extending the interpolation method [for interpolated convolution by Hart, Whitney, and Morse (2023)]([https://pages.github.com/](https://openaccess.thecvf.com/content/WACV2023/papers/Hart_Interpolated_SelectionConv_for_Spherical_Images_and_Surfaces_WACV_2023_paper.pdf)), this project will adapt that method to Gaussian splats and will investigate an effective pipeline for doing so. The anticipated result is a method of applying 2D ML models directly to Gaussian splats.
+Extending the interpolation method for interpolated convolution by [Hart, Whitney, and Morse 2023](https://openaccess.thecvf.com/content/WACV2023/papers/Hart_Interpolated_SelectionConv_for_Spherical_Images_and_Surfaces_WACV_2023_paper.pdf), this project will adapt that method to Gaussian splats and will investigate an effective pipeline for doing so. The anticipated result is a method of applying 2D ML models directly to Gaussian splats.
 
 Preliminary results so far are encouraging.
 
