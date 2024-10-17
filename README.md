@@ -10,4 +10,4 @@ Extending the interpolation method for interpolated convolution by [Hart, Whitne
 
 Preliminary results so far are encouraging.
 
-img links...
+!(A still from orginal 3D Gaussian and the style to be transfered to it)[/../main/assets/photos/StyleTranser.png]
