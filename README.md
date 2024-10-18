@@ -15,3 +15,7 @@ Preliminary results so far are encouraging. Here, a 3D Gaussian of a kid's play 
 ![A still from the resulting 3D Gaussian](table_style_transfer.png)
 
 Sample code is available [here](https://github.com/Raphael-ECU/SelecConv_splats)
+
+Effectively, this project involving creating a pipeline from the raw data of a Gaussian splat to a projection into the 2D plane on which a 2D neural network can natively run, and mapping back up to the 3D volumetric data of the now-modified Gaussian splat. An important step in the pipeline is computation of surface normals for the point cloud subset of the Gaussian splat data. That computation is performed using KNN-based sampling and a computationally efficient normal vector estimation. The results for a scan of an armchair are presented below.
+
+![Chair normals](Normals.png)
