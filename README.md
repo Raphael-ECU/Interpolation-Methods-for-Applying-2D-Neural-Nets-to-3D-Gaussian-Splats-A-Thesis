@@ -13,3 +13,5 @@ Preliminary results so far are encouraging. Here, a 3D Gaussian of a kid's play 
 ![A still from orginal 3D Gaussian and the style to be transfered to it](StyleTransfer3D.png)
 
 ![A still from the resulting 3D Gaussian](table_style_transfer.png)
+
+Sample code is available [here](https://github.com/Raphael-ECU/SelecConv_splats)
